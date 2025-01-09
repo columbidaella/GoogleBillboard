@@ -2,7 +2,7 @@ public final static String e = "2.7182818284590452353602874713526624977572470936
 public void setup()  
 {      
 double num;
-while(int i = 2; i < 100; i++){
+for(int i = 2; i < 100; i++){
 	num = Double.parseDouble(e.substring(x,x+10));
 	if(isPrime(num)){
 	break;
