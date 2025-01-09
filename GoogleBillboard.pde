@@ -3,7 +3,7 @@ public void setup()
 {      
 double num;
 for(int i = 2; i < 100; i++){
-	num = Double.parseDouble(e.substring(x,x+10));
+	num = Double.parseDouble(e.substring(i,i+10));
 	if(isPrime(num)){
 	break;
 }
