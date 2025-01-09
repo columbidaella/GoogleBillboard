@@ -14,7 +14,7 @@ public void draw()
 {   
 	//not needed for this assignment
 }  
-public boolean isPrime(double dNum)  
+public boolean isPrime(double num)  
 {   
       if(num==1){
     return false;
