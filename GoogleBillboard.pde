@@ -9,6 +9,7 @@ while(x>1){
 	break;
 }
 }  
+}
 public void draw()  
 {   
 	//not needed for this assignment
